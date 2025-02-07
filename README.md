@@ -11,7 +11,7 @@
 - **Bases de Datos:** SQL, DB2, MongoDB
 - **Interés Profesional:** Ampliar conocimientos en DevOps
 
-### Tecnologías (con badges)
+### Tecnologías
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com)  
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
