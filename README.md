@@ -1,4 +1,4 @@
-# Tu Nombre Completo
+# Javier Curto
 
 ¡Hola! Soy Javier Curto, desarrollador con algo de experiencia en el desarrollo backend y frontend utilizando principalmente **Java**, **Spring Boot** y **React**. Me destaco por mi capacidad de aprendizaje continuo y adaptabilidad, fortalecido también por mi experiencia en el ámbito militar, que me ha permitido desarrollar habilidades interpersonales y organizativas esenciales para el sector IT.
 
